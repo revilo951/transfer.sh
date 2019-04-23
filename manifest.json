@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "github.com/dutchcoders/transfer.sh-web": {
+        "github.com/revilo951/transfer.sh-web": {
             "branch": "master"
         }
     }
